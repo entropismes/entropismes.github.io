@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://entropismes.github.io/post/lempel-ziv-catastrophe/</loc>
+    <lastmod>2019-01-23T18:04:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/</loc>
+    <lastmod>2019-01-23T18:04:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/tags/algorithmique/</loc>
+    <lastmod>2019-01-23T18:04:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/tags/compression/</loc>
+    <lastmod>2019-01-23T18:04:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/post/</loc>
+    <lastmod>2019-01-23T18:04:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://entropismes.github.io/tags/</loc>
+    <lastmod>2019-01-23T18:04:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

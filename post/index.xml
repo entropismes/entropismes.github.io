@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Entropismes</title>
+    <link>https://entropismes.github.io/post/</link>
+    <description>Recent content in Posts on Entropismes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Jan 2019 18:04:25 +0100</lastBuildDate>
+    
+	<atom:link href="https://entropismes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lempel Ziv et la « catastrophe du premier bit »</title>
+      <link>https://entropismes.github.io/post/lempel-ziv-catastrophe/</link>
+      <pubDate>Wed, 23 Jan 2019 18:04:25 +0100</pubDate>
+      
+      <guid>https://entropismes.github.io/post/lempel-ziv-catastrophe/</guid>
+      <description>Dans un monde où la quantité d&amp;rsquo;information numérique qui transite dépasse l&amp;rsquo;imagination (en une seconde, le trafic internet dépasse les 60,000 gigaoctets : plus de 2,000,000 de mails sont envoyés, google répond à environ 70,000 requêtes, pas loin de 80,000 vidéos youtubes sont regardées, etc.), des algorithmes de compression de données efficaces sont indispensables. Ces derniers ont pour rôle de représenter de manière compacte nos fichiers, que ce soient vidéos textes musiques etc.</description>
+    </item>
+    
+  </channel>
+</rss>
